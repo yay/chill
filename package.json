@@ -1,0 +1,18 @@
+{
+  "name": "chill",
+  "version": "1.0.0",
+  "description": "React Not. Chill.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./build/serve.js"
+  },
+  "keywords": [],
+  "author": "Vitalii Kravchenko",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "0.18.11",
+    "prettier": "2.8.8",
+    "typescript": "5.1.6"
+  }
+}
